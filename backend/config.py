@@ -1,0 +1,8 @@
+DB_HOST='127.0.0.1'
+DB_USER='root'
+DB_PASSWORD='root'
+DB_NAME='heartcare_iot'
+DB_PORT=3306
+SERVER_HOST='0.0.0.0'
+SERVER_PORT=5000
+
